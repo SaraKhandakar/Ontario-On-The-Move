@@ -20,13 +20,12 @@ The aim was to visualize insights that support **transportation planning, infras
 ## Dashboard Preview
 
 <p align="center">
-  <img src="Integrated dashboard.png" width="800"/>
+  <img src="https://raw.githubusercontent.com/SaraKhandakar/Ontario-On-The-Move/main/Integrated%20dashboard.png" width="800"/>
 </p>
 
 <p align="center">
-  <img src="Traffic trend dashboard.png" width="800"/>
+  <img src="https://raw.githubusercontent.com/SaraKhandakar/Ontario-On-The-Move/main/Traffic%20trend%20dashboard.png" width="800"/>
 </p>
-
 ---
 
 ##  Key Insights
