@@ -1,5 +1,10 @@
 # Ontario On The Move – Traffic & Mobility Dashboard (1988–2021)
 
+![Power BI](https://img.shields.io/badge/Power_BI-Data_Visualization-yellow?logo=powerbi)
+![CSV](https://img.shields.io/badge/Data-CSV-blue)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
+
+
 ### Power BI • Traffic Trends • Freight Movement • Ontario Highways Analysis
 
 This project analyzes traffic volumes across Ontario highways from **1988 to 2021**, exploring long-term travel behavior, seasonal fluctuations, freight movement intensity, and congestion patterns.  
